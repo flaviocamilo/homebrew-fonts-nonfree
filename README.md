@@ -27,9 +27,9 @@ First, you'll have to have [Homebrew](http://brew.sh) installed.
 
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-Then install [Caskroom](http://caskroom.io).
+Then install [Cask](http://caskroom.io) by tapping its repository.
 
-    brew install caskroom/cask/brew-cask
+    brew tap caskroom/cask
 
 Then tap this repository.
 
